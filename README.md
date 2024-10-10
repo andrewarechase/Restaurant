@@ -19,9 +19,14 @@ The Types of things I learned and implemented in doing this challenge:
 
 
 Resources/Screenshots:
+
 <img width="316" alt="ResturantApp3" src="https://github.com/user-attachments/assets/3501ca16-53f9-420d-9c61-7074a830f2df">
+
 <img width="316" alt="Re<img width="316" alt="ResturantApp3" src="https://github.com/user-attachments/assets/11f5c588-6192-4087-b310-081dcdaee2da">
+
 sturantApp1<img width="316" alt="ResturantApp2" src="https://github.com/user-attachments/assets/24a850c9-36c6-42ba-94b6-1af995e213ca">
+
+
 
 
 My Unique Modification to this Project:
