@@ -22,9 +22,5 @@ Resources/Screenshots:
 
 <img width="316" alt="ResturantApp3" src="https://github.com/user-attachments/assets/3501ca16-53f9-420d-9c61-7074a830f2df">
 
-<img width="316" alt="Re<img width="316" alt="ResturantApp3" src="https://github.com/user-attachments/assets/11f5c588-6192-4087-b310-081dcdaee2da">
-
-
-
 
 My Unique Modification to this Project:
